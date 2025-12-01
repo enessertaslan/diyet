@@ -1,0 +1,7 @@
+{
+  "name": " Akıllı Diyet Asistanı",
+  "description": "Kişiselleştirilmiş diyet planı, tarifler, maliyet hesabı ve yakındaki marketleri bulan yapay zeka destekli asistan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
